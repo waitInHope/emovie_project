@@ -96,7 +96,7 @@
     }
     .side_right{
       position: absolute;
-      left:80%;
+      left:74%;
       top:8%;
       width: 6%;
       height:67%;
@@ -110,39 +110,39 @@
     }
     #right{
       position: absolute;
-      left:80.3%;
+      left:74%;
       width:6%;
       top:40%;
       cursor: pointer;
     }
     .picone{
       width: 75%;
-      height: 78%;
+      height: 67%;
       position: absolute;
       left: 7%;
       top:8%;
       background-image: url("../../../assets/home/main1.jpg");
       background-repeat: no-repeat;
-      background-size: 100%,100%;
+      background-size: contain;
     }
     .pictwo{
       width: 75%;
-      height: 78%;
+      height: 67%;
       position: absolute;
       left: 7%;
       top:8%;
       background-image: url("../../../assets/home/main2.jpg");
       background-repeat: no-repeat;
-      background-size: 100%,100%;
+      background-size: contain;
     }
     .picthree{
       width: 75%;
-      height: 78%;
+      height: 67%;
       position: absolute;
       left: 7%;
       top:8%;
       background-image: url("../../../assets/home/main3.jpg");
       background-repeat: no-repeat;
-      background-size: 100%,100%;
+      background-size: contain;
     }
 </style>
