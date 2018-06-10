@@ -18,7 +18,7 @@
     name: 'home',
     data() {
       return {
-        title: '欢迎来到快乐影购！',
+        title: '欢迎来到未来影院！',
         people: 'wenhan',
         index: 1,
         isone:true,
@@ -96,7 +96,7 @@
     }
     .side_right{
       position: absolute;
-      left:74%;
+      left:73%;
       top:8%;
       width: 6%;
       height:67%;
@@ -110,7 +110,7 @@
     }
     #right{
       position: absolute;
-      left:74%;
+      left:73%;
       width:6%;
       top:40%;
       cursor: pointer;
